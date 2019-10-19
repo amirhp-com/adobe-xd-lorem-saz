@@ -1,8 +1,9 @@
 Persian Lorem Ipsum Genereator
 ==============================
+
 First iranian plugin in Adobe XD plugin repo!!
 Programmed by [Amirhosseinhpv](https://amirhosseinhpv.ir/) in [BlackSwanLab](https://blackswanlab.ir/)
-==================================================
+---------------------
 
 You can use this plugin to make lorem ipsum dummy text data and apply it on a
 text object or creat a new text node or even copy it into the clipboard.
