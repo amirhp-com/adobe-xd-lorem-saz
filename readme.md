@@ -24,4 +24,4 @@ Looking forward hearing from you.
 
 Install Plugin
 ==============================
-Download Installable Package [xd-persian-loremipsum.xdx](https://github.com/amirhosseinhpv/adobe-xd-lorem-saz/blob/master/xd-persian-loremipsum.xdx) and simply double-click to open it using Adobe XD.
+Download [Latest Installable Package ](https://github.com/amirhosseinhpv/adobe-xd-lorem-saz/releases) and simply double-click to open it using Adobe XD.
