@@ -2,6 +2,7 @@ Persian Lorem Ipsum Genereator
 ==============================
 
 First iranian plugin in Adobe XD plugin repo!!
+
 Programmed by [Amirhosseinhpv](https://amirhosseinhpv.ir/) in [BlackSwanLab](https://blackswanlab.ir/)
 
 You can use this plugin to make lorem ipsum dummy text data and apply it on a
@@ -21,6 +22,6 @@ hi@blackswanlab.ir.
 
 Looking forward hearing from you.
 
-Download and Install Plugin
+Install Plugin
 ==============================
-Download Installable Package from [https://github.com/amirhosseinhpv/adobe-xd-lorem-saz/blob/master/xd-persian-loremipsum.xdx](https://github.com/amirhosseinhpv/adobe-xd-lorem-saz/blob/master/xd-persian-loremipsum.xdx)
+Download Installable Package [xd-persian-loremipsum.xdx](https://github.com/amirhosseinhpv/adobe-xd-lorem-saz/blob/master/xd-persian-loremipsum.xdx) and simply double-click to open it using Adobe XD.
