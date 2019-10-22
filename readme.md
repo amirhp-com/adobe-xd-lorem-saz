@@ -25,3 +25,5 @@ Looking forward hearing from you.
 Install Plugin
 ==============================
 Download [Latest Installable Package ](https://github.com/amirhosseinhpv/adobe-xd-lorem-saz/releases) and simply double-click to open it using Adobe XD.
+
+Check out First Text Justify for Adobe XD! [Justify It!](https://github.com/amirhosseinhpv/adobe-xd-justify-it/)
